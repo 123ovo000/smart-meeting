@@ -1,2 +1,2 @@
 # smart-meeting
-use aliyun tingwu server to make a smart meeting assistant 
+Build a project of an intelligent conference assistant using the Alibaba Cloud ListenWise service. This can be used for facial expression recognition, analysis, speaking duration, speakers, as well as the analysis and summary of the entire conference system. Please note that this project is built based on Vue 3 and only some functions have been implemented. The database and other functions have not yet been realized.
