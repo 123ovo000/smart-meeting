@@ -1,2 +1,19 @@
-# smart-meeting
-Build a project of an intelligent conference assistant using the Alibaba Cloud ListenWise service. This can be used for facial expression recognition, analysis, speaking duration, speakers, as well as the analysis and summary of the entire conference system. Please note that this project is built based on Vue 3 and only some functions have been implemented. The database and other functions have not yet been realized.
+# Vue 3 + Vite
+
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+
+
+
+
+
+
+
+AccessKey ID
+LTAI5t7rm2fEJ7uJivhFXB5V
+
+AccessKey Secret
+86RqolZSgUnt2CBssde6igTP2wlG7R
+
