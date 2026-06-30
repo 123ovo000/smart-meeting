@@ -12,8 +12,8 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 
 AccessKey ID
-LTAI5t7rm2fEJ7uJivhFXB5V
+............
 
 AccessKey Secret
-86RqolZSgUnt2CBssde6igTP2wlG7R
+..............
 
